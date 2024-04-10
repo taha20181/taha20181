@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Taha Bohra
 
-### I love to write programs in Python ![](https://camo.githubusercontent.com/24303cd2424a9a9c092cb6f3108ae66c45d827c3bb8cac57c93c1831c058e43f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2e706e67)
+### I write programs in Python ![](https://camo.githubusercontent.com/24303cd2424a9a9c092cb6f3108ae66c45d827c3bb8cac57c93c1831c058e43f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2e706e67)
 
 <!-- I am currently pursuing my B.Tech in Information Technology. Programming has become my passion. My hobbies are to cycle and play football.
  -->
